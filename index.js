@@ -29,7 +29,7 @@ class Route{
       return hor + ver;
     }
 
-    estimatedTime(bool){
+    estimatedTime(bool=false){
       if(bool === true ){
         return (this.blocksTravelled())/2
       }
