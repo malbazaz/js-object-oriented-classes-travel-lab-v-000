@@ -29,8 +29,10 @@ class Route{
       return hor + ver;
     }
 
-    estimatedTime(){
-
+    estimatedTime(bool){
+      if(bool === true ){
+        
+      }
     }
 
   }
