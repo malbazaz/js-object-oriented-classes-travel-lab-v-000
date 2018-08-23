@@ -29,4 +29,8 @@ class Route{
       return hor + ver;
     }
 
+    estimatedTime(){
+
+    }
+
   }
