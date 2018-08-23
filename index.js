@@ -4,6 +4,8 @@ class Driver{
     this.startDate = startDate;
   }
 
+let startDate = new Date();
+
 
 
 }
