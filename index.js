@@ -14,3 +14,7 @@ return this.startDate.getFullYear() - endDate
   }
   }
 }
+
+class Route{
+
+}
