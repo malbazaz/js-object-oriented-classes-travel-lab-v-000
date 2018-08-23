@@ -16,5 +16,9 @@ return this.startDate.getFullYear() - endDate
 }
 
 class Route{
+  constructor(beginningLocation,endingLocation){
+    this.beginningLocation = beginningLocation;
+    this.endingLocation = endingLocation;
+  }
 
 }
