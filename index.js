@@ -10,7 +10,7 @@ yearsExperienceFromBeginningOf(endDate){
 return endDate - this.startDate.getFullYear()
 }
 else{
-return this.startDate.getFullYear()
+return this.startDate.getFullYear() - endDate
   }
   }
 
