@@ -16,6 +16,7 @@ class Driver{
 }
 
 class Route{
+
     constructor(beginningLocation,endingLocation){
       this.beginningLocation = beginningLocation;
       this.endingLocation = endingLocation;
@@ -27,4 +28,5 @@ class Route{
       let ver = Math.abs(this.beginningLocation.vertical - this.endingLocation.vertical )
       return hor + ver;
     }
+
   }
