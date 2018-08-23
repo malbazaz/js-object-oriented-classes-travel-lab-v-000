@@ -13,5 +13,4 @@ else{
 return this.startDate.getFullYear() - endDate
   }
   }
-
 }
