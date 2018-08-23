@@ -33,6 +33,9 @@ class Route{
       if(bool === true ){
         return (this.blocksTravelled())/2
       }
+      else {
+
+      }
     }
 
   }
