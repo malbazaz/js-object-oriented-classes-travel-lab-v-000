@@ -1,5 +1,6 @@
 class Driver{
-  constructor(name, dayJoined){
+  constructor(name, startDate){
     this.name = name;
+    this.startDate = startDate;
   }
 }
