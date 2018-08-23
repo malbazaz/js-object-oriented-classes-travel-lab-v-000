@@ -3,9 +3,9 @@ class Driver{
     this.name = name;
     this.startDate = startDate;
   }
-startDate() = new Date();
-
-// let startDate = new Date();
+// startDate() = new Date();
+// 
+// // let startDate = new Date();
 
 
 }
